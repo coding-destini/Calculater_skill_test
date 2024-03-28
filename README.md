@@ -1,4 +1,3 @@
-```markdown
 # Simple Calculator App
 
 A simple calculator app built with React that allows users to perform basic arithmetic operations.
